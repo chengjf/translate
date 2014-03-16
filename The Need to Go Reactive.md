@@ -1,4 +1,4 @@
-http://www.reactivemanifesto.org/[http://www.reactivemanifesto.org/]
+原文地址[http://www.reactivemanifesto.org/]
 奔向响应式架构的需求
 --
 应用的需求在这些年中发生了戏剧性的变化。几年前，一个大型的应用只不过十几台服务器，几秒的响应时间，几个小时的线下维护和GB级别的数据。而今天，应用被部署在任何地方，从移动设备到运行着几千个多核处理器的云计算集群上。用户期望毫秒级甚至微秒级的响应速度，和全年不停的运行。数据也扩展到PB级别。
